@@ -1,0 +1,1 @@
+shows some static data of items (prices, calories). Calculator to count cals. Doctor advices on nutrition.
